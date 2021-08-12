@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yolo-task/static/css/main.425b12ae.chunk.css",
+    "main.js": "/yolo-task/static/js/main.5a7dde3f.chunk.js",
+    "main.js.map": "/yolo-task/static/js/main.5a7dde3f.chunk.js.map",
+    "runtime-main.js": "/yolo-task/static/js/runtime-main.d890ebe7.js",
+    "runtime-main.js.map": "/yolo-task/static/js/runtime-main.d890ebe7.js.map",
+    "static/css/2.818011ed.chunk.css": "/yolo-task/static/css/2.818011ed.chunk.css",
+    "static/js/2.82578177.chunk.js": "/yolo-task/static/js/2.82578177.chunk.js",
+    "static/js/2.82578177.chunk.js.map": "/yolo-task/static/js/2.82578177.chunk.js.map",
+    "static/js/3.77dd3f4e.chunk.js": "/yolo-task/static/js/3.77dd3f4e.chunk.js",
+    "static/js/3.77dd3f4e.chunk.js.map": "/yolo-task/static/js/3.77dd3f4e.chunk.js.map",
+    "index.html": "/yolo-task/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/yolo-task/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.425b12ae.chunk.css.map": "/yolo-task/static/css/main.425b12ae.chunk.css.map",
+    "static/js/2.82578177.chunk.js.LICENSE.txt": "/yolo-task/static/js/2.82578177.chunk.js.LICENSE.txt",
+    "static/media/rocket.4bf2b4a8.png": "/yolo-task/static/media/rocket.4bf2b4a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d890ebe7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.82578177.chunk.js",
+    "static/css/main.425b12ae.chunk.css",
+    "static/js/main.5a7dde3f.chunk.js"
+  ]
+}
